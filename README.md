@@ -42,7 +42,7 @@ El problema de los trenes implica calcular varias métricas relacionadas con las
         Haz clic derecho en el proyecto en Eclipse, selecciona Build Path > Configure Build Path....
         En la pestaña Libraries, haz clic en Add JARs... y selecciona los archivos JAR que colocaste en la carpeta lib.
         Haz clic en Apply and Close.
-##Uso
+## Uso
 Ejecución de Pruebas
 
     1. Abre la clase GraphTest.java en src/test/java/com/trains/.
@@ -70,7 +70,7 @@ int distance = graph.calculateRouteDistance(townA, townB, townC);
 System.out.println("La distancia de la ruta A-B-C es: " + distance);
 
 
-##estructura-del-proyecto
+## estructura-del-proyecto
 TrainsProblems/
 │
 ├── .settings/
